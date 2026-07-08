@@ -6,7 +6,7 @@ A Java-based Hospital Management System project that manages patient records usi
 
 - Java
 - MySQL
-- JDBC
+- XAMPP
 - SQL
 
 ## Features
