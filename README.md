@@ -16,5 +16,14 @@ A Java-based Hospital Management System project that manages patient records usi
 - Update patient information
 - Delete patient records
 - Store and manage patient data using MySQL database
-
+  
 ## Project Structure
+Hospital-Management-System
+│
+├── src
+│ └── Java source files
+│
+├── hospital.sql
+│ └── Database file
+│
+└── README.md
